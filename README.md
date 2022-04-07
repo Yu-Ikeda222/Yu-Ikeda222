@@ -2,8 +2,8 @@
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-Ikeda222&layout=compact&theme=dracula" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Yu-Ikeda222&theme=dracula&show_icons=true" />
 </p>
-[![trophy](https://github-profile-trophy.vercel.app/?username=Yu-Ikeda222&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 <!--
 **Yu-Ikeda222/Yu-Ikeda222** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,3 +18,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ymktmk&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
